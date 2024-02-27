@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
 ### 📚 과거 학습했지만 다시 학습이 필요한 Skills
 <div display="flex">
   	<picture><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></picture>
