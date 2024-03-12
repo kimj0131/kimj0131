@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>✨ About Me ✨ </h2>
 
-<b>안녕하세요 백앤드 개발자를 목표로 하고있습니다 🌱</b>
+<b>안녕하세요 김준형 입니다🌱</b>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 📚 과거 학습했지만 다시 학습이 필요한 Skills
+### 📚 다시 학습이 필요한 Skills
 <div display="flex">
 	<picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></picture>
   	<picture><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></picture>
