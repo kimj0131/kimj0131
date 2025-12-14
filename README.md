@@ -49,14 +49,3 @@ Here are some ideas to get you started:
  	<picture><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white"></picture>
  	<picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></picture>
 </div>
-
-<hr>
-
-### 📚 다시 학습이 필요한 Skills
-<div display="flex">
-	<picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></picture>
-  	<picture><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></picture>
-	<picture><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></picture>
-	<picture><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></picture>
-	<picture><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></picture>
-</div>
